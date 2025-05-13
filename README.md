@@ -69,7 +69,7 @@ We welcome academic and industrial collaboration in these areas:
 
 #### 🔹 全空间高斯响应评估
 
-[![Preview](https://via.placeholder.com/400x225?text=3D+Gaussian+Evaluation)]()
+[![Preview](asset/Relight.png)]()
 *Gaussian response functions evaluated in complete 3D space*
 高斯响应函数在完整 3D 空间中评估，确保空间一致性与物理合理性，避免透视失真。
 
