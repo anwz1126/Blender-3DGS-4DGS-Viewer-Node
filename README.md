@@ -66,42 +66,44 @@ We welcome academic and industrial collaboration in these areas:
 
 #### 🔹 基于球谐函数的各向异性着色
 
-[![Preview](asset/eevee_realtime_SH.mp4)]()
 *Each Gaussian point supports spherical harmonics (SH) based directional shading for natural soft lighting*
 
 每个高斯点支持基于球谐函数（SH）的方向性着色，能还原更自然的柔性光照感。
 
 #### 🔹 全空间高斯响应评估
 
-[![Preview]()]()
 *Gaussian response functions evaluated in complete 3D space*
 
 高斯响应函数在完整 3D 空间中评估，确保空间一致性与物理合理性，使次级射线正确评估。
 
 #### 🔹 实时渲染管线集成
 
-[![Preview](asset/Relight.png)]()
+[![Preview](asset/eevee_realtime_SH.gif)]()
+
 *Eevee supports efficient Gaussian real-time preview for rapid debugging and visual development*
 
 Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发。
 
 #### 🔹 几何阴影交互
 
-[![Preview](asset/Shadow.png)]()
+[![Preview](asset/eevee_realtime_shadow.gif)]()
+
 *Gaussian points support shadow interactions (casting/receiving) with Mesh in both Eevee and Cycles*
 
 高斯点与常规 Mesh 支持双向阴影投射与接收，已在 Eevee 与 Cycles 中实现。
 
 #### 🔹 屏幕空间反射
 
-[![Preview](asset/SH.png)]()
+[![Preview](asset/eevee_realtime_SSR.gif)]()
+
 *Native Gaussian Screen Space Reflections implemented in Eevee for lightweight dynamic reflections*
 
 在Eevee中实现了原生的高斯屏幕空间反射，可用于轻量级动点反射表现。
 
 #### 🔹 光线追踪反射
 
-[![Preview](asset/PathTracingGS.png)]()
+[![Preview](asset/Path_tracing_4DGS.gif)]()
+
 *Cycles supports Gaussian participation in ray-traced reflections*
 
 Cycles支持高斯点参与光线追踪折射/反射，适配真实渲染需求。
