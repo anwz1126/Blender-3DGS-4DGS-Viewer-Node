@@ -63,7 +63,7 @@ We welcome academic and industrial collaboration in these areas:
 
 #### 🔹 基于球谐函数的各向异性着色
 
-[![Preview](https://via.placeholder.com/400x225?text=SH-based+Anisotropic+Shading)]()
+[![Preview](asset/SH.png)]()
 *Each Gaussian point supports spherical harmonics (SH) based directional shading for natural soft lighting*
 每个高斯点支持基于球谐函数（SH）的方向性着色，能还原更自然的柔性光照感
 
