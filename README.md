@@ -1,6 +1,6 @@
 # Blender 3DGS / 4DGS Viewer Node | Blender 3DGS / 4DGS 可视化节点
 
-![Banner Recommendation](https://via.placeholder.com/1920x400/1a1a2e/ffffff?text=Blender+3DGS+4DGS+Viewer+Node+%257C+%E9%AB%98%E6%96%AF%E6%B3%BC%E6%BA%85%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7)
+![Banner Recommendation](asset/Banner_Corgi.png)
 
 
 A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grottoes project. Supports loading and previewing of **3DGS** and **4DGS** datasets, with basic rendering styles for quick inspection.
