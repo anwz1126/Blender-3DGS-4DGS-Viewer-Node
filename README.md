@@ -69,13 +69,13 @@ We welcome academic and industrial collaboration in these areas:
 
 #### 🔹 全空间高斯响应评估
 
-[![Preview](asset/Relight.png)]()
+[![Preview]()]()
 *Gaussian response functions evaluated in complete 3D space*
 高斯响应函数在完整 3D 空间中评估，确保空间一致性与物理合理性，避免透视失真。
 
 #### 🔹 实时渲染管线集成
 
-[![Preview](https://via.placeholder.com/400x225?text=Eevee+Realtime+Preview)]()
+[![Preview](asset/Relight.png)]()
 *Eevee supports efficient Gaussian real-time preview for rapid debugging and visual development*
 Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发
 
