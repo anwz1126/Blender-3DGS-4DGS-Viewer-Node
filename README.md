@@ -81,7 +81,7 @@ Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发
 
 #### 🔹 几何阴影交互
 
-[![Preview](https://via.placeholder.com/400x225?text=Mesh+Shadow+Interaction)]()
+[![Preview](asset/Shadow.png)]()
 *Gaussian points support shadow interactions (casting/receiving) with Mesh in both Eevee and Cycles*
 高斯点与常规 Mesh 支持双向阴影投射与接收，已在 Eevee 与 Cycles 中实现。
 
