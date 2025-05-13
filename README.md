@@ -93,7 +93,7 @@ Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发
 
 #### 🔹 光线追踪反射
 
-[![Preview](https://via.placeholder.com/400x225?text=Ray-traced+Reflections)]()
+[![Preview](asset/PathTracingGS.png)]()
 *Cycles supports Gaussian participation in ray-traced reflections*
 Cycles支持高斯点参与光线追踪反射，适配真实渲染需求
 
