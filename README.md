@@ -6,6 +6,7 @@
 A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grottoes project. Supports loading and previewing of **3DGS** and **4DGS** datasets, with basic rendering styles for quick inspection.
 
 由影视飓风团队在华硕 4DGS 云冈石窟项目中开发的 Blender 自定义节点，支持加载和预览 **3D Gaussian Splatting (3DGS)** 与 **4D Gaussian Splatting (4DGS)** 数据，并提供基础渲染样式以便快速查看与测试。
+
 *正在上传包含素材的工程文件，体积比较大（柯基案例/李四维飞跃大凳子案例）
 
 ---
@@ -60,43 +61,50 @@ As part of our ongoing R&D efforts in next-generation rendering pipelines, Media
 ### 🔍 Current Research Focus | 研究重点
 
 We welcome academic and industrial collaboration in these areas:
+
 我们欢迎学术界和产业界就以下方向展开合作：
 
 #### 🔹 基于球谐函数的各向异性着色
 
 [![Preview]()]()
 *Each Gaussian point supports spherical harmonics (SH) based directional shading for natural soft lighting*
-每个高斯点支持基于球谐函数（SH）的方向性着色，能还原更自然的柔性光照感
+
+每个高斯点支持基于球谐函数（SH）的方向性着色，能还原更自然的柔性光照感。
 
 #### 🔹 全空间高斯响应评估
 
 [![Preview]()]()
 *Gaussian response functions evaluated in complete 3D space*
-高斯响应函数在完整 3D 空间中评估，确保空间一致性与物理合理性，避免透视失真。
+
+高斯响应函数在完整 3D 空间中评估，确保空间一致性与物理合理性，使次级射线正确评估。
 
 #### 🔹 实时渲染管线集成
 
 [![Preview](asset/Relight.png)]()
 *Eevee supports efficient Gaussian real-time preview for rapid debugging and visual development*
-Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发
+
+Eevee支持高效的Gaussian实时预览，便于快速调试与视觉开发。
 
 #### 🔹 几何阴影交互
 
 [![Preview](asset/Shadow.png)]()
 *Gaussian points support shadow interactions (casting/receiving) with Mesh in both Eevee and Cycles*
+
 高斯点与常规 Mesh 支持双向阴影投射与接收，已在 Eevee 与 Cycles 中实现。
 
 #### 🔹 屏幕空间反射
 
 [![Preview](asset/SH.png)]()
 *Native Gaussian Screen Space Reflections implemented in Eevee for lightweight dynamic reflections*
-在Eevee中实现了原生的高斯屏幕空间反射，可用于轻量级动点反射表现
+
+在Eevee中实现了原生的高斯屏幕空间反射，可用于轻量级动点反射表现。
 
 #### 🔹 光线追踪反射
 
 [![Preview](asset/PathTracingGS.png)]()
 *Cycles supports Gaussian participation in ray-traced reflections*
-Cycles支持高斯点参与光线追踪反射，适配真实渲染需求
+
+Cycles支持高斯点参与光线追踪折射/反射，适配真实渲染需求。
 
 
 ---
