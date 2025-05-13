@@ -104,7 +104,7 @@ Cycles支持高斯点参与光线追踪反射，适配真实渲染需求
 
 Special thanks to **Zhang Yu** from **Visionwise AI**, who helped us understand the technical difference between 3DGS and 4DGS in the early stage of the project.
 
-特别感谢来自 **视维智能 4DV.ai** 的 **张宇**，在项目初期耐心帮助我们梳理了 3DGS 与 4DGS 的底层原理，为节点工具的正确开发奠定了基础。
+特别感谢来自 **视维智能 [4DV.ai](https://www.4dv.ai/zh)** 的 **张宇**，在项目初期耐心帮助我们梳理了 3DGS 与 4DGS 的底层原理，为节点工具的正确开发奠定了基础。
 否则我们可能会一直以为 4DGS 只是多个 3DGS 串起来 :)
 
 ---
@@ -113,7 +113,7 @@ Special thanks to **Zhang Yu** from **Visionwise AI**, who helped us understand 
 
 For updates and development logs (mostly in Chinese), visit:
 如需了解更多开发动态与学习内容（中文更新）：
-👉 [史莱姆的个人空间（Bilibili）](https://space.bilibili.com/)
+👉 [史莱姆的个人空间（Bilibili）](https://space.bilibili.com/383900492/)
 
 ---
 
