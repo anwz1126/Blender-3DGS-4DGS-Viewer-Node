@@ -6,6 +6,7 @@
 A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grottoes project. Supports loading and previewing of **3DGS** and **4DGS** datasets, with basic rendering styles for quick inspection.
 
 由影视飓风团队在华硕 4DGS 云冈石窟项目中开发的 Blender 自定义节点，支持加载和预览 **3D Gaussian Splatting (3DGS)** 与 **4D Gaussian Splatting (4DGS)** 数据，并提供基础渲染样式以便快速查看与测试。
+*正在上传包含素材的工程文件，体积比较大（柯基案例/李四维飞跃大凳子案例）
 
 ---
 
@@ -36,10 +37,10 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
 2. Open your project in **Blender 4.3+**.
 3. Append the node setup into your file.
 4. Use the node group to load `.ply` files containing 3DGS/4DGS data.
-5. 克隆或下载本仓库
-6. 使用 **Blender 4.3 及以上版本** 打开你的项目
-7. 将节点组添加至场景中
-8. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件
+1. 克隆或下载本仓库
+2. 使用 **Blender 4.3 及以上版本** 打开你的项目
+3. 将节点组添加至场景中
+4. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件
 
 > ⚠️ **Important Note / 注意事项**
 > If your 4DGS `.ply` file contains an attribute named `t`, Blender will silently ignore it.
