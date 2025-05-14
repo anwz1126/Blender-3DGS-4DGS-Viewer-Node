@@ -1,0 +1,5 @@
+seg_0.ply filter=lfs diff=lfs merge=lfs -text
+seg_1.ply filter=lfs diff=lfs merge=lfs -text
+seg_3.ply filter=lfs diff=lfs merge=lfs -text
+seg_4.ply filter=lfs diff=lfs merge=lfs -text
+seg_5.ply filter=lfs diff=lfs merge=lfs -text
