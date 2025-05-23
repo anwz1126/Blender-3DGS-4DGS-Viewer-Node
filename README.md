@@ -49,9 +49,12 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
    
 [![Preview](asset/M2.jpg)]()
 
-4. 如果你开启的是全新的工程或者在项目中使用该节点工具：文件-追加-\NodeTree\-GeometryNodesTree，随后进入几何节点窗口-添加（shift+A）-群组-GeometryNodesTree
+4. 如果你开启的是全新的工程或者在项目中使用该节点工具：
 
-5. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件，检查设置是否与图中一致
+文件-追加-NodeTree-GeometryNodesTree
+随后进入几何节点窗口 - 添加(shift+A) - 群组 - GeometryNodesTree
+
+6. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件，检查设置是否与图中一致
    
 [![Preview](asset/M3.jpg)]()
 
