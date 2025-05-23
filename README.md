@@ -29,6 +29,7 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
 - **Blender Version / Blender 版本**: 4.3 及以上
 - **Platform / 平台**: Windows / Linux / macOS
 - **Recommended GPU / 推荐显卡**: NVIDIA RTX 系列（更适配点云渲染）
+- 建议使用4.5(Alpha)版本，尽管这是实验性版本，但可以获得更舒适的交互体验
 
 ---
 
@@ -40,8 +41,9 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
 4. Use the node group to load `.ply` files containing 3DGS/4DGS data.
 1. 克隆或下载本仓库
 2. 使用 **Blender 4.3 及以上版本** 打开你的项目
-3. 将节点组添加至场景中
-4. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件
+3. 将资产添加进场景集合（如果是从网盘获取的工程，会自带一个柯基4Dply资产）
+4. 将节点组添加至场景中（如果你开启了一个全新的工程）
+5. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件
 
 > ⚠️ **Important Note / 注意事项**
 > If your 4DGS `.ply` file contains an attribute named `t`, Blender will silently ignore it.
