@@ -39,20 +39,19 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
 [![Preview](asset/M0.jpg)]()
 
 
-3. 将资产添加进场景集合（如果是从网盘获取的工程，会自带一个柯基4Dply资产）
+2. 将资产添加进场景集合（如果是从网盘获取的工程，会自带一个柯基4Dply资产）
    
 [![Preview](asset/M1.jpg)]()
 
 3. 新建一个集合用于存放seq0~5，随后排除该集合
+
 *由于一些限制，每个seq最多包含300帧（5秒）的时空
    
 [![Preview](asset/M2.jpg)]()
 
-5. 将节点组添加至场景中（如果你开启了一个全新的工程）
-   
-[![Preview]()]()
+4. 如果你开启的是全新的工程或者在项目中使用该节点工具：文件-追加-\NodeTree\-GeometryNodesTree，随后进入几何节点窗口-添加（shift+A）-群组-GeometryNodesTree
 
-6. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件，，按照图中设置
+5. 使用节点读取包含 3DGS / 4DGS 数据的 `.ply` 文件，按照图中设置
    
 [![Preview](asset/M3.jpg)]()
 
