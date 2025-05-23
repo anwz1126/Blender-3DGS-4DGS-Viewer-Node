@@ -34,11 +34,6 @@ A custom Blender node developed by Mediastorm during the ASUS 4DGS Yungang Grott
 ---
 
 ## 🚀 How to Use | 使用方式
-
-1. Clone or download this repository.
-2. Open your project in **Blender 4.3+**.
-3. Append the node setup into your file.
-4. Use the node group to load `.ply` files containing 3DGS/4DGS data.
 1. 克隆或下载本仓库
 2. 使用 **Blender 4.3 及以上版本** 打开你的项目
 3. 将资产添加进场景集合（如果是从网盘获取的工程，会自带一个柯基4Dply资产）
